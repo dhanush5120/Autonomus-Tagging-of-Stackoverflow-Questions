@@ -7,4 +7,3 @@ We propose a multi-label classification system that automatically tags users’ 
 We implement a one-vs-rest classifier for a Stack Overflow dataset, using a linear SVM and a carefully chosen subset of the
 entire feature set explored 
 
-#                                                Preview
