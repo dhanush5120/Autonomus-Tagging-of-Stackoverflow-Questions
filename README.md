@@ -8,4 +8,4 @@ We implement a one-vs-rest classifier for a Stack Overflow dataset, using a line
 entire feature set explored 
 
 # GUI
-![GUI](gui.png)
+![GUI](GUI.png)
